@@ -1,0 +1,57 @@
+body {
+  font-family: 'Noto Serif', serif;
+  background-color: snow;
+  margin-left: 110px;
+  margin-right: 110px;
+}
+section {
+  border: dashed 2px black;
+  padding: 10px 10px;
+  margin: 10px;
+}
+.colors p {
+  display: inline-block;
+  padding: 10px 150px;
+  margin: 10px;
+}
+#lavender {
+  background-color: lavender;
+}
+#lavender-blush {
+  background-color: lavenderblush;
+}
+#light-cyan {
+  background-color: lightcyan;
+}
+#light-grey {
+  background-color: lightgrey;
+}
+.fonts div {
+  display: inline-block;
+  margin-right: 70px;
+}
+#lora {
+  font-family: 'lora', serif;
+}
+#fira-sans {
+  font-family: 'Fira Sans', sans-serif;
+}
+#barlow {
+  font-family: 'barlow', sans-serif;
+}
+h1.styles-example {
+  font-family: 'lora', serif;
+  font-weight: 700;
+  font-size: 26px;
+  font-style: italic;
+}
+h2.styles-example {
+  font-family: 'fira sans', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+p.styles-example {
+  font-family: 'barlow', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
